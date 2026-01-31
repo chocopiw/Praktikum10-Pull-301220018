@@ -1,1 +1,1 @@
-Perubahan kedua dilakukan dari repository lokal.
+Perubahan pertama dilakukan langsung melalui GitHub.
